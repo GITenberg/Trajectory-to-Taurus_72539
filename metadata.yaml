@@ -1,0 +1,32 @@
+_repo: Trajectory-to-Taurus_72539
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cole, Les
+    aliases:
+    - Collins, Les
+    - Sturgis, Colin
+    - Cole, Lester
+    birthdate: 1904
+    deathdate: 1985
+    gutenberg_agent_id: '25434'
+    url: http://www.gutenberg.org/2009/agents/25434
+description: ''
+gutenberg_issued: '2023-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72539'
+language: en
+pgterms:marc905: 20231216041047collins
+pgterms:marc906: '1960'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bZiff-Davis Publishing Company, $c1960.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Trajectory to Taurus
+url: http://www.gutenberg.org/ebooks/72539
